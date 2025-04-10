@@ -1,0 +1,1 @@
+export const API_URL=`https://newsapi.org/v2/top-headlines?category=technology&apiKey=${import.meta.env.VITE_NEWS_API_KEY}`
